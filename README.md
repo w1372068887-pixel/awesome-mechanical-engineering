@@ -30,6 +30,7 @@
 - **[What is Mechanical Engineering?](https://en.wikipedia.org/wiki/Mechanical_engineering)** - An overview of the field and its subdisciplines.
 - **[ASME (American Society of Mechanical Engineers)](https://www.asme.org/)** - Resources, standards, and journals for mechanical engineers.
 - **[Engineering Toolbox](https://www.engineeringtoolbox.com/)** - Handy tools and references for mechanical engineers.
+- **[Longze Engineering Fastener Standards Data](https://github.com/w1372068887-pixel/longze-fastener-data)** - Open dimensional data for 16 DIN, ISO and ASME fastener standards (CSV and JSON, CC BY 4.0, DOI archived).
 
 ## CAD (Computer-Aided Design)
 
